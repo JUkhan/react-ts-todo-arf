@@ -1,0 +1,8 @@
+.active {
+  color: rgb(154, 205, 50) !important;
+}
+
+.errors{
+   text-align: center;
+  color: brown;
+}
